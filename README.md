@@ -14,6 +14,7 @@ The platform is built using the **MERN stack**, which includes ReactJS, NodeJS, 
 
 | Section                 | Description                                  |
 |-------------------------|----------------------------------------------|
+|
 | [StudyNotion Aim](#studynotion-aim-)        | 📚 Overview of StudyNotion's goals            |
 | [Tech Stack](#tech-stack-)             | 💻🔧 Technologies used in the project         |
 | [System Architecture](#system-architecture-)    | 🏰 Overview of the system architecture      |
@@ -22,6 +23,11 @@ The platform is built using the **MERN stack**, which includes ReactJS, NodeJS, 
 | [React Hooks](#react-hooks-)            | 🎣 Overview of React Hooks utilized          |
 | [React Library](#react-library-)         | ⚛️📚 Overview of React Libraries used        |
 | [Screen Preview](#screen-preview-)         | 🖥️ Screen Preview        |
+
+
+
+
+
 
 
 ## StudyNotion Aim 📚 
@@ -226,6 +232,3 @@ Utilized several React hooks for efficient state management and dynamic behavior
 
 # Footer
 <img width='100%' src='https://github.com/manavrajawat/Study-Notion-EdTech-MERN-Stack/blob/main/screenshots/footer.png' />
-
-#   S t u d y - N o t i o n - E d T e c h - M E R N - S t a c k  
- 
